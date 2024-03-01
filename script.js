@@ -7,3 +7,4 @@ btnSignIn.addEventListener('click', e => {
     formregister.classList.add('hide');
     formlogin.classList.remove('hide');
 })
+let a = "hora";
